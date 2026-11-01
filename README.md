@@ -33,5 +33,8 @@ Go to the project directory
 Start the development by running file index.html with live server extension.
 
 <hr>
+## Original project by Chirag Nagar
+Chirag Nagar Github Repositery : https://github.com/Chirag047/Spotify-Clone
+
   
 
